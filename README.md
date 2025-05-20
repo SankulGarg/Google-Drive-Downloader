@@ -32,6 +32,7 @@ This Python script allows you to download files from Google Drive using the Goog
     - Go to the Google Developers Console.
     - Create a new project and enable the Google Drive API.
     - Create OAuth 2.0 credentials (client ID and client secret).
+    - REDIRECT_URI = 'http://localhost:61249/
     - Download the credentials JSON file and save it as `credentials.json` in the project directory.
 
 2. Run the script:
